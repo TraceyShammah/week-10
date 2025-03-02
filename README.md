@@ -1,4 +1,4 @@
-
+Todo list application
 
 This is a simple Todo List application implemented in TypeScript. It allows users to add, complete, remove, update, list, and filter todo items, as well as clear completed tasks.
 
